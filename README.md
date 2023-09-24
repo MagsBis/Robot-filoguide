@@ -8,3 +8,6 @@ Utilisation de 3 types de communication :
 -Infrarouge
 -DTMF
 -Induction magnétique
+
+Schéma global du système : 
+![plot](./images/Schéma global du système.png?raw=true "schema_global")

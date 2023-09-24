@@ -10,4 +10,4 @@ Utilisation de 3 types de communication :
 -Induction magnétique
 
 Schéma global du système : 
-![plot](./images/Schéma global du système.png?raw=true "schema_global")
+![plot](./images/Schéma_global_du_système.png?raw=true "schema_global")

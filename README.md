@@ -11,3 +11,6 @@ Utilisation de 3 types de communication :
 
 Schéma global du système : 
 ![plot](./images/Schéma_global_du_système.png?raw=true "schema_global")
+
+Démonstaration du robot :
+![plot](./images/demo_robot.gif?raw=true "schema_global")
